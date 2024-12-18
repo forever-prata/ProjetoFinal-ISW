@@ -1,0 +1,5 @@
+compartment_ocid      = "ocid1.tenancy.oc1 suachave"
+availability_domain   = "Nvhx:SA-SAOPAULO-1-AD-1"
+mysql_configuration_id = "ocid1.mysqlconfiguration.oc1.sa-saopaulo-1.sua key de config"
+db_admin_password     = "Senhaforte123!"
+subnet_ocid           = "ocid1.subnet.oc1.sa-saopaul sua key da subnet"
